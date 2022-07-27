@@ -19,6 +19,7 @@ __pycache__
 .env_file
 final_project_venv/
 aws-auth-patch.yml
+examples/
 
 # Coverage reports
 htmlcov/
