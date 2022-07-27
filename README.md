@@ -87,6 +87,10 @@ Completing the project involves several steps:
 
 <!-- Just want to trigger build -->
 <!-- Just want to trigger build -->
+<!-- [Container] 2022/07/27 08:58:11 Running command kubectl apply -f simple_jwt_api.yml
 
+
+
+error: You must be logged in to the server (the server has asked for the client to provide credentials) -->
 
 For more detail about each of these steps, see the project lesson.
